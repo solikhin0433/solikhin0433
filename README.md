@@ -15,13 +15,16 @@
 
 ### 📊 Stats:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=solikhin0433&theme=vue-dark&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solikhin0433&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
+<table>
+  <tr>
+    <td align="left">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=solikhin0433&theme=vue-dark&hide_border=true" alt="GitHub Streak Stats" />
+    </td>
+    <td align="right">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solikhin0433&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
