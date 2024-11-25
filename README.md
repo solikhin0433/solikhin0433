@@ -1,22 +1,32 @@
-# Hi 👋, I'm Solikhin
----
-![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
-"Jangan takut gagal saat belajar web. Setiap kesalahan adalah sebuah pelajaran, dan setiap pelajaran membawa kamu lebih dekat ke tujuanmu."
+# Hi 👋, I'm Solikhin  
 
 ---
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Illustration" width="400" />
+</p>
+
+> "Jangan takut gagal saat belajar web. Setiap kesalahan adalah sebuah pelajaran, dan setiap pelajaran membawa kamu lebih dekat ke tujuanmu."
+
+---
+
+### About Me:
 - 🌱 **I'm currently learning** Website and Mobile Development  
-- 📫 **How to reach me:** [solikhinkhin645@gmail.com]
-   
-- 😄 **Fun fact:** kukira error karena apa, ternyata kurang titik koma :)
+- 📫 **How to reach me:** [solikhinkhin645@gmail.com](mailto:solikhinkhin645@gmail.com)  
+- 😄 **Fun fact:** *Kukira error karena apa, ternyata kurang titik koma!* :)
 
 ---
 
----
-📊 Stats
-![solikhin0433's Streak](https://github-readme-streak-stats.herokuapp.com/?user=solikhin0433&theme=vue-dark&hide_border=true)
-![solikhin0433's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solikhin0433&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+### 📊 Stats:
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=solikhin0433&theme=vue-dark&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solikhin0433&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
+
 ---
 
 ### Connect with me:  
