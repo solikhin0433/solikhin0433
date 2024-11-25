@@ -6,7 +6,7 @@
 
 ---
 
-- 🌱 **I'm currently learning** Web and Mobile Development  
+- 🌱 **I'm currently learning** Website and Mobile Development  
 - 📫 **How to reach me:** [solikhinkhin645@gmail.com]
    
 - 😄 **Fun fact:** kukira error karena apa, ternyata kurang titik koma :)
