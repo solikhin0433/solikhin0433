@@ -10,6 +10,9 @@
 - 📫 **How to reach me:** [solikhinkhin645@gmail.com]
    
 - 😄 **Fun fact:** kukira error karena apa, ternyata kurang titik koma :)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=solikhin0433&label=Profile%20views&color=0e75b6&style=flat" alt="solikhin0433" />
+</p>
 
 ---
 
