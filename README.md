@@ -2,12 +2,11 @@
 ---
 ![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-"Jangan takut gagal saat belajar web. Setiap kesalahan adalah sebuah pelajaran, dan setiap pelajaran membawa kamu lebih dekat ke tujuanmu."
+"Rabbish-rohli shodrii, wa yassir-lii amri, wahlul 'uqdatammin-lisaani, yafqahu qauli."
 
 ---
-
-- 🌱 **I'm currently learning** Website and Mobile Development  
-- 📫 **How to reach me:** [solikhinkhin645@gmail.com]
+  
+- 📫 **email:** [solikhinkhin645@gmail.com]
    
 - 😄 **Fun fact:** :)
 <p align="center">
