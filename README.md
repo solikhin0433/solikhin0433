@@ -31,7 +31,7 @@
 
 ### Connect with me:  
 
-[![LinkedIn](https://www.linkedin.com/in/solikhin-03b63b252/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/solikhin-03b63b252/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/solikhin168)
 
 
