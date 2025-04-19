@@ -15,23 +15,38 @@
 
 ---
 
-### 📊 Stats:
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=solikhin0433&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="solikhin0433's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=solikhin0433&theme=vue-dark&hide_border=true" alt="GitHub Streak Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=solikhin0433&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" 
+    alt="solikhin0433's GitHub Stats" 
+    width="48%" 
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=solikhin0433&theme=vue-dark&hide_border=true" 
+    alt="GitHub Streak Stats" 
+    width="48%" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solikhin0433&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=solikhin0433&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" 
+    alt="Top Languages" 
+    width="60%" 
+  />
 </p>
-
 
 ---
 
-### Connect with me:  
+## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/solikhin-03b63b252/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/solikhin168)
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/solikhin-03b63b252/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/solikhin168" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
