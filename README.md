@@ -20,6 +20,7 @@
 <table>
   <tr>
     <td align="left">
+      ![solikhin0433's Stats](https://github-readme-stats.vercel.app/api?username=solikhin0433&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=solikhin0433&theme=vue-dark&hide_border=true" alt="GitHub Streak Stats" />
     </td>
     <td align="right">
@@ -32,7 +33,7 @@
 
 ### Connect with me:  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/solikhin-khin-03b63b252/)  
+[![LinkedIn](https://www.linkedin.com/in/solikhin-03b63b252/)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/solikhin168)
 
 
