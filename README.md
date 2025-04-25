@@ -23,12 +23,6 @@
     alt="solikhin0433's GitHub Stats" 
     width="48%" 
   />
-<img 
-    src="https://github-profile-trophy.vercel.app/?username=solikhin0433&theme=vue-dark&no-frame=true" 
-    alt="GitHub Profile Trophy" 
-    width="48%" 
-/>
-</p>
 
 <p align="center">
   <img 
