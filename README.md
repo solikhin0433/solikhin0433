@@ -34,9 +34,8 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=solikhin0433&theme=github-dark&hide_border=false" />
 </a>
+
 ---
-
-
 
 ## 🤝 Connect with Me
 
