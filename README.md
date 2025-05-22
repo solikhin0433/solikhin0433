@@ -1,8 +1,7 @@
 # Hi 👋, I'm Solikhin
 ---
-![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
 "Rabbish-rohli shodrii, wa yassir-lii amri, wahlul 'uqdatammin-lisaani, yafqahu qauli."
+![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 ---
   
@@ -17,22 +16,18 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=solikhin0433&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" 
-    alt="solikhin0433's GitHub Stats" 
-    width="48%" 
-  />
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=solikhin0433&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" 
-    alt="Top Languages" 
-    width="60%" 
-  />
-</p>
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solikhin0433&show_icons=true&theme=github_dark&hide_border=false&border_radius=10&card_width=1000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solikhin0433&layout=compact&theme=github_dark&hide_border=false&border_radius=10&card_width=1000)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=solikhin0433&theme=github-dark&hide_border=false&border_radius=10&card_width=1000)
 
 ---
+### 📈 **My Grafik Stats**
+
+---
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solikhin0433&theme=github_dark" width="100%" />
+
 
 ## 🤝 Connect with Me
 
