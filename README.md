@@ -22,8 +22,6 @@
 ## 📊 GitHub Stats
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solikhin0433&show_icons=true&theme=github_dark&hide_border=false&border_radius=10&card_width=1000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solikhin0433&layout=compact&theme=github_dark&hide_border=false&border_radius=10&card_width=1000)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=solikhin0433&theme=github-dark&hide_border=false&border_radius=10&card_width=1000)
 
 ---
