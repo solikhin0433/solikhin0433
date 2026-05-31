@@ -2,10 +2,10 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
+"Rabbish-rohli shodrii, wa yassir-lii amri, wahlul 'uqdatammin-lisaani, yafqahu qauli."
 
 # Hi 👋, I'm Solikhin
 
-"Rabbish-rohli shodrii, wa yassir-lii amri, wahlul 'uqdatammin-lisaani, yafqahu qauli."
 ![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 ---
