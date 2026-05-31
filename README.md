@@ -2,7 +2,10 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
-"Rabbish-rohli shodrii, wa yassir-lii amri, wahlul 'uqdatammin-lisaani, yafqahu qauli."
+
+<div align="center">
+  <b><span style="color: #FFD700;">"Rabbish-rohli shodrii, wa yassir-lii amri, wahlul 'uqdatammin-lisaani, yafqahu qauli."</span></b>
+</div>
 
 # Hi 👋, I'm Solikhin
 
