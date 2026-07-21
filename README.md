@@ -29,13 +29,11 @@
 
 ---
 ### 📈 **My Grafik Stats**
-
 ---
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solikhin0433&theme=github_dark" width="100%" />
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=solikhin0433&theme=github-dark&hide_border=false" />
+  <img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=solikhin0433&theme=github-dark&hide_border=false" />
 </a>
-
 ---
 
 ## 🤝 Connect with Me
